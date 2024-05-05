@@ -54,10 +54,6 @@
 </div>
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1dp85dioo53qyicbyryby38oc&cover_image=true&theme=default" style="margin-top: 20px;" />
-</div>
-
-<div align="center">
     <img src="https://komarev.com/ghpvc/?username=simpledioney&&style=flat-square" align="center" style="margin-top: 10px;" />
 </div>
 
