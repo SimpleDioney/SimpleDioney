@@ -61,8 +61,7 @@
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Minhas Estatísticas de Codificação</h2>
 <div align="center">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=simpledioney&hide_border=true&bg_color=121212&title_color=800080&text_color=e0e0e0" align="center" style="margin-top: 20px;" />
 </div>
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Visitantes</h2>
