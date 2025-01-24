@@ -61,7 +61,7 @@
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Minhas Estatísticas de Codificação</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=simpledioney&hide_border=true&bg_color=121212&title_color=800080&text_color=e0e0e0" align="center" style="margin-top: 20px;" />
+    [![wakatime](https://wakatime.com/badge/user/592de5a2-1113-461d-8349-f17007d32668.svg)](https://wakatime.com/@592de5a2-1113-461d-8349-f17007d32668)
 </div>
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Visitantes</h2>
