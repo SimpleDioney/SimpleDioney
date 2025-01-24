@@ -60,9 +60,7 @@
 </div>
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Minhas Estatísticas de Codificação</h2>
-<div align="center">
-    [![wakatime](https://wakatime.com/badge/user/592de5a2-1113-461d-8349-f17007d32668.svg)](https://wakatime.com/@592de5a2-1113-461d-8349-f17007d32668)
-</div>
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Visitantes</h2>
 <div align="center">
