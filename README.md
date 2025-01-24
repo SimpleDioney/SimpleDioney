@@ -7,9 +7,9 @@
 <h3 align="center" style="color: #e0e0e0; margin-top: 10px;">Iniciando minha jornada no frontend, focado em desenvolvimento pessoal e apaixonado por tecnologia e ficção científica 🚀</h3>
 
 <ul style="list-style: none; text-align: center; padding: 0;">
-    <li>🔭 Explorando meu <a href="https://simpledioney.github.io" style="color: #800080;">portfólio</a></li>
+    <li>🔬 Explorando meu <a href="https://simpledioney.github.io" style="color: #800080;">portfólio</a></li>
     <li>🌱 Estudando constantemente e aplicando novos conhecimentos!</li>
-    <li>🎬 Fascinado pelo espaço, meu filme favorito é Interestelar!</li>
+    <li>🎮 Fascinado pelo espaço, meu filme favorito é Interestelar!</li>
     <li>⚡ Valorizo um código bem organizado e limpo</li>
 </ul>
 
@@ -56,6 +56,13 @@
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Estatísticas do GitHub</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=simpledioney&show_icons=true&count_private=true&hide_border=true&bg_color=121212&title_color=800080&text_color=e0e0e0&icon_color=800080" align="center" style="margin-top: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpledioney&layout=compact&hide_border=true&bg_color=121212&title_color=800080&text_color=e0e0e0" align="center" style="margin-top: 20px;" />
+</div>
+
+<h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Minhas Estatísticas de Codificação</h2>
+<div align="center">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 
 <h2 align="center" style="color: #e0e0e0; margin-top: 30px;">Visitantes</h2>
